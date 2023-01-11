@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene1/Scenes/Pooling Test Scene.unity
+    guid: 2384808da7f61684db43962fcf35e23f
   m_configObjects: {}
