@@ -11,4 +11,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scene3[ScriptableObject]/Scenes/ScriptableObject.unity
     guid: 46d70f2af8a5efa4abf0fe60870587c2
+  - enabled: 1
+    path: Assets/Scene4[LayoutGroup]/Scenes/UILayoutGroup.unity
+    guid: dd57c6683a6610f44a9661c5824ad164
+  - enabled: 1
+    path: Assets/Scene5[ScrollvView]/Scenes/UIScrollView.unity
+    guid: 1bfe2f9e47d3c6f48b5024f21142205d
+  - enabled: 1
+    path: Assets/Scene6[Timeline]/Scenes/Timeline.unity
+    guid: cd56c68cbe551aa48b4f356ccae8b8b2
   m_configObjects: {}
