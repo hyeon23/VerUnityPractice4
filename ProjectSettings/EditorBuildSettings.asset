@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scene1[UnityPooling]/Scenes/Pooling Test Scene.unity
     guid: 2384808da7f61684db43962fcf35e23f
+  - enabled: 1
+    path: Assets/Scene3[ScriptableObject]/Scenes/ScriptableObject.unity
+    guid: 46d70f2af8a5efa4abf0fe60870587c2
   m_configObjects: {}
